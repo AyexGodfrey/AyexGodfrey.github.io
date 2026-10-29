@@ -1,6 +1,6 @@
 {
-    "name": "CEO Dashboard",
-    "short_name": "CEO Dashboard",
+    "name": "CEO's Dashboard",
+    "short_name": "CEO's Dashboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0B3037",
