@@ -1,11 +1,11 @@
 {
-    "name": "ceo_dashboard",
-    "short_name": "ceo_dashboard",
+    "name": "CEO Dashboard",
+    "short_name": "CEO Dashboard",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0B3037",
+    "theme_color": "#0B3037",
+    "description": "Mission control for everything you manage.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
